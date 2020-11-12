@@ -1,4 +1,4 @@
-# Ruby-testappppp
+# Ruby-testapp
 run the Dockerfile
 ```docker build -t ruby-app . ```
 
